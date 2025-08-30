@@ -5,3 +5,4 @@ MR2_man,Cardiac,Porcine,Butcher,Name,Name,Name,Healthy
 field1,field2,MR2_man,Vasculature,Murine,Butcher,Name,Name,Name,Healthy
 field1,field2,MR2_man,Vasculature,Bovine,Butcher,Name,Name,Name,Healthy
 "['1', '2']",MR2_man,Vasculature,Bovine,Butcher,Name,Name,Name,Healthy or diseased tissue
+1,2,MR2_man,Cardiac,Other,Butcher,Name,Name,Name,Healthy or diseased tissue
