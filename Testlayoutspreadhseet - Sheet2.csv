@@ -3,3 +3,4 @@ SampleNameUno,somerandomlink,Author1,Individual,Musculoskeletal  >>>Meniscus>>>L
 PorcineAortic Tissue,somerandomlink2,Author2,Averaged,Musculoskeletal  >>>Meniscus>>>Lateral and radial>>> Aged,Porcine>>>Slaughterhouse>>>Aged,somevalue,somevalue,somevalue,somevalue ,N/A    >>> Vibratome >>>Liquid Nitrogen,4 days,Preconditioning 6 cycles Strain rate 4% >>> Universal Tester >>> Displacement Controlled till failure>>>Relevant strain range 0.6>>dry,Python  >>> Minimize >>> N/A >>>>N/A>>>N/A,No 
 Test,Test,Test,Test,Test,Test,Test,Other
 Somesample,"Author1,Author2,Author3",somelink,Individual result,Porcine,Test to failure Tensile Uniaxial,MATLAB LSQNONLIN,Other
+YH_man,Other,Porcine,Other,1,1,1,Healthy
