@@ -6,3 +6,4 @@ Somesample,"Author1,Author2,Author3",somelink,Individual result,Porcine,Test to 
 YH_man,Other,Porcine,Other,1,1,1,Healthy
 MR2_man,Cardiac,Porcine,Butcher,1,1,1,Diseased
 MR2_man,Cardiac,Porcine,Butcher,1,1,1,Diseased
+Select an option,Select the tissue type,Select an option,Sourcing of the tissue,,,,Healthy or diseased tissue
