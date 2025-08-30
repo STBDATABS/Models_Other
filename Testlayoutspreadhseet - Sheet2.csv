@@ -4,3 +4,4 @@ PorcineAortic Tissue,somerandomlink2,Author2,Averaged,Musculoskeletal  >>>Menisc
 Test,Test,Test,Test,Test,Test,Test,Other
 Somesample,"Author1,Author2,Author3",somelink,Individual result,Porcine,Test to failure Tensile Uniaxial,MATLAB LSQNONLIN,Other
 YH_man,Other,Porcine,Other,1,1,1,Healthy
+MR2_man,Cardiac,Porcine,Butcher,1,1,1,Diseased
